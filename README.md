@@ -1,8 +1,8 @@
 user_interface — это модуль, который отвечает только за общение с пользователем через консоль.
 
 функции:
-show_main_menu()
-get_task_input()
+show_main_menu(),
+get_task_input(),
 show_message(text, level="info")
 
 описание функций: 
