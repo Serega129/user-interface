@@ -1,0 +1,6 @@
+[submodule "user-interface"]
+	path = user-interface
+	url = https://github.com/Serega129/user-interface.git
+[submodule "modules/user_interface"]
+	path = modules/user_interface
+	url = https://github.com/Serega129/user-interface.git
