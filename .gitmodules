@@ -4,3 +4,9 @@
 [submodule "modules/user_interface"]
 	path = modules/user_interface
 	url = https://github.com/Serega129/user-interface.git
+[submodule "modules/data_storage"]
+	path = modules/data_storage
+	url = https://github.com/tenivy/module-storage
+[submodule "modules/business_logic"]
+	path = modules/business_logic
+	url = https://github.com/tenivy/module-logic
